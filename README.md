@@ -8,10 +8,10 @@ PINNs are used for solving the following types of problems involving partial dif
 We will first understand the aforementioned use-cases by considering the PDE used for describing the motion of a simple pendulum.
 Next we will solve a more useful problem, heat-transfer in a rod, considering both 1D and 2D rod, along with Dirichlet and Neumann boundary conditions.
 
-The tutorials are in the following sequence:
+**The tutorials are in the following sequence:**
 1. Pendulum  
    - Forward Problem  
    - Inverse Problem  
-2. Heat Transfer (Steady-state, Dirichlet and Neumann B.C)
+2. Heat Transfer (Steady-state; Dirichlet and Neumann B.C)
    - 1D Forward Problem
    - 2D Forward Problem
