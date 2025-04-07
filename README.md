@@ -11,7 +11,7 @@ Next we will solve a more useful problem, heat-transfer in a rod, considering bo
 **The tutorials are in the following sequence:**
 1. Pendulum  
    - Forward Problem  
-   - Inverse Problem  
+   - Inverse Problem (coming soon)
 2. Heat Transfer (Steady-state; Dirichlet and Neumann B.C)
    - 1D Forward Problem
-   - 2D Forward Problem
+   - 2D Forward Problem (coming soon)
