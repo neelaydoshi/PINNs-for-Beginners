@@ -9,9 +9,9 @@ We will first understand the aforementioned use-cases by considering the PDE use
 Next we will solve a more useful problem, heat-transfer in a rod, considering both 1D and 2D rod, along with Dirichlet and Neumann boundary conditions.
 
 The tutorials are in the following sequence:
-1. Pendulum \b
-  a. Forward Problem \b
-  b. Inverse Problem \b
-2. Heat Transfer \b
-  a. 1-Dimension \b
-  b. 2-Dimension \b
+1. Pendulum  
+   - Forward Problem  
+   - Inverse Problem  
+2. Heat Transfer (Steady-state, Dirichlet and Neumann B.C)
+   - 1D Forward Problem
+   - 2D Forward Problem
