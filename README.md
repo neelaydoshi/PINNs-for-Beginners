@@ -18,4 +18,8 @@ PINNs are used for solving the following types of problems involving partial dif
 
 <img src="images/1D_HT- PINN vs FDM.png" width="300" />
 
+<p align="center">
+  <img src="images/1D_HT- PINN vs FDM.png" width="80%" />
+</p>
+
 ![Alt text-2]("images/1D_HT- heat_map.png")
