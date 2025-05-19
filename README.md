@@ -15,11 +15,11 @@ PINNs are used for solving the following types of problems involving partial dif
    - 2D Forward Problem (coming soon)
 
 
+## Results
 
-<img src="images/1D_HT- PINN vs FDM.png" width="300" />
+### Heat Transfer in 1D Rod
 
 <p align="center">
-  <img src="images/1D_HT- PINN vs FDM.png" width="80%" />
+<img src="images/1D_HT- PINN vs FDM.png" width="70%" />
+<img src="images/1D_HT- heat_map.png" width="70%" />
 </p>
-
-![Alt text-2]("images/1D_HT- heat_map.png")
