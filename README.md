@@ -13,3 +13,7 @@ PINNs are used for solving the following types of problems involving partial dif
    - 1D Forward Problem (PyTorch implementation)
    - 1D Forward Problem ([DeepXDE](https://github.com/lululxvi/deepxde) implementation)
    - 2D Forward Problem (coming soon)
+
+
+![Alt text](images/1D_HT- PINN vs FDM.png)
+![Alt text-2](images/1D_HT- heat_map.png)
