@@ -1,2 +1,3 @@
-Deflection in a cantilever beam (1D and 2D beam).
-(Coming soon ...)
+Deflection in a cantilever beam 
+- Cantilever Beam 1D
+- Cantilever Beam 2D (coming soon ...)
