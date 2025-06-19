@@ -8,10 +8,10 @@ PINNs are used for solving the following types of problems involving ODEs/PDEs:
 
 **The tutorials are in the following sequence:**
 1. Pendulum Motion
-   - [Forward Problem (PyTorch implementation)](https://github.com/neelaydoshi/PINNs-for-Beginners/blob/main/T1-%20Pendulum/pendulum_1-%20forward%20problem-%20v1.ipynb)
-   - [Inverse Problem (PyTorch implementation)](https://github.com/neelaydoshi/PINNs-for-Beginners/blob/main/T1-%20Pendulum/pendulum_2-%20inverse%20problem-%20v1.ipynb)
+   - [Forward Problem (PyTorch)](https://github.com/neelaydoshi/PINNs-for-Beginners/blob/main/T1-%20Pendulum/pendulum_1-%20forward%20problem-%20v1.ipynb)
+   - [Inverse Problem (PyTorch)](https://github.com/neelaydoshi/PINNs-for-Beginners/blob/main/T1-%20Pendulum/pendulum_2-%20inverse%20problem-%20v1.ipynb)
 2. Heat Transfer
-   - [1D Forward Problem (PyTorch implementation)](https://github.com/neelaydoshi/PINNs-for-Beginners/blob/main/T2-%20Heat_Transfer/heat_transfer_1-%201D%20rod-%20PyTorch.ipynb)
+   - [1D Forward Problem (PyTorch)](https://github.com/neelaydoshi/PINNs-for-Beginners/blob/main/T2-%20Heat_Transfer/heat_transfer_1-%201D%20rod-%20PyTorch.ipynb)
    - [1D Forward Problem](https://github.com/neelaydoshi/PINNs-for-Beginners/blob/main/T2-%20Heat_Transfer/heat_transfer_2-%201D%20rod-%20DeepXDE.ipynb)
    - 2D Forward Problem (coming soon)
 3. Cantilever Beam Bending
