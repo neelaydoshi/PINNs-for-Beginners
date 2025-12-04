@@ -27,3 +27,9 @@ PINNs are used for solving the following types of problems involving ODEs/PDEs:
   <img src="images/1D_HT- heat_map.png" width="40%"/>
 </div>
 
+
+### Heat Transfer in 2D Square Domain
+
+<div align="center">
+  <img src="images/2D_HT- heat_map.png" width="40%"/>
+</div>
