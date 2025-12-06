@@ -12,10 +12,10 @@ PINNs are used for solving the following types of problems involving ODEs/PDEs:
    - [Inverse Problem (PyTorch)](https://github.com/neelaydoshi/PINNs-for-Beginners/blob/main/T1-%20Pendulum/pendulum_2-%20inverse%20problem-%20v1.ipynb)
 2. Heat Transfer
    - [1D Forward Problem (PyTorch)](https://github.com/neelaydoshi/PINNs-for-Beginners/blob/main/T2-%20Heat_Transfer/heat_transfer_1-%201D%20rod-%20PyTorch.ipynb)
-   - [1D Forward Problem](https://github.com/neelaydoshi/PINNs-for-Beginners/blob/main/T2-%20Heat_Transfer/heat_transfer_2-%201D%20rod-%20DeepXDE.ipynb)
+   - [1D Forward Problem (DeepXDE)](https://github.com/neelaydoshi/PINNs-for-Beginners/blob/main/T2-%20Heat_Transfer/heat_transfer_2-%201D%20rod-%20DeepXDE.ipynb)
    - 2D Forward Problem (coming soon...)
 3. Cantilever Beam Bending
-   - [1D Cantilever Beam](https://github.com/neelaydoshi/PINNs-for-Beginners/blob/main/T3-%20Beam/beam_1-%201D%20cantilever.ipynb)
+   - [1D Cantilever Beam (DeepXDE)](https://github.com/neelaydoshi/PINNs-for-Beginners/blob/main/T3-%20Beam/beam_1-%201D%20cantilever.ipynb)
    - 2D Cantilever Beam (coming soon...) 
 
 ## Results
