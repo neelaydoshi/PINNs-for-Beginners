@@ -13,7 +13,7 @@ PINNs are used for solving the following types of problems involving ODEs/PDEs:
 2. Heat Transfer
    - [1D Forward Problem (PyTorch)](https://github.com/neelaydoshi/PINNs-for-Beginners/blob/main/T2-%20Heat_Transfer/heat_transfer_1-%201D%20rod-%20PyTorch.ipynb)
    - [1D Forward Problem (DeepXDE)](https://github.com/neelaydoshi/PINNs-for-Beginners/blob/main/T2-%20Heat_Transfer/heat_transfer_2-%201D%20rod-%20DeepXDE.ipynb)
-   - 2D Forward Problem (coming soon...)
+   - [2D Forward Problem (DeepXDE)](https://github.com/neelaydoshi/PINNs-for-Beginners/blob/main/T2-%20Heat_Transfer/heat_transfer_3-%202D%20square-%20DeepXDE.ipynb)
 3. Cantilever Beam Bending
    - [1D Cantilever Beam (DeepXDE)](https://github.com/neelaydoshi/PINNs-for-Beginners/blob/main/T3-%20Beam/beam_1-%201D%20cantilever.ipynb)
    - 2D Cantilever Beam (coming soon...) 
@@ -30,6 +30,6 @@ PINNs are used for solving the following types of problems involving ODEs/PDEs:
 
 ### Heat Transfer in 2D Square Domain
 
-<div align="center">
+<div align="left">
   <img src="images/2D_HT- heat_map.png" width="40%"/>
 </div>
