@@ -16,7 +16,11 @@ PINNs are used for solving the following types of problems involving ODEs/PDEs:
    - [2D Forward Problem (DeepXDE)](https://github.com/neelaydoshi/PINNs-for-Beginners/blob/main/T2-%20Heat_Transfer/heat_transfer_3-%202D%20square-%20DeepXDE.ipynb)
 3. Cantilever Beam Bending
    - [1D Cantilever Beam (DeepXDE)](https://github.com/neelaydoshi/PINNs-for-Beginners/blob/main/T3-%20Beam/beam_1-%201D%20cantilever.ipynb)
-   - 2D Cantilever Beam (coming soon...) 
+   - 2D Cantilever Beam (coming soon...)
+4. CFD
+   - [Step-1: 1D Linear Convection](https://github.com/neelaydoshi/PINNs-for-Beginners/blob/main/T4-%20CFD/step_1-%201D_linear_convection.ipynb)
+   - [Step-2: 1D Nonlinear Convection](https://github.com/neelaydoshi/PINNs-for-Beginners/blob/main/T4-%20CFD/step_2-%201D_nonlinear_convection.ipynb) (in progress...)
+   - [Step-3a: 1D Diffusion Equation](https://github.com/neelaydoshi/PINNs-for-Beginners/blob/main/T4-%20CFD/step_3a-%201D_diffusion_eq.ipynb)
 
 ## Results
 
@@ -33,3 +37,11 @@ PINNs are used for solving the following types of problems involving ODEs/PDEs:
 <div align="center">
   <img src="images/2D_HT- heat_map.png" width="40%"/>
 </div>
+
+### CFD: 1D Diffusion Equation
+
+<div align="center">
+   <img src="images/CFD- step_3a- pinns_vs_fdm.png" width="40%"/>
+   <img src="images/CFD- step_3a- pinns_vs_fdm- error_contour.png" width="40%"/>
+</div>
+
