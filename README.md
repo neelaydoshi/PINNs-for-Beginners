@@ -42,6 +42,6 @@ PINNs are used for solving the following types of problems involving ODEs/PDEs:
 
 <div align="center">
    <img src="images/CFD- step_3a- pinns_vs_fdm.png" width="40%"/>
-   <img src="images/CFD- step_3a- pinns_vs_fdm- error_contour.png" width="40%"/>
+   <img src="images/CFD- step_3a- pinns_vs_fdm- error_contour_1.png" width="40%"/>
 </div>
 
